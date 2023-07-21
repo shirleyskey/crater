@@ -40,7 +40,7 @@
     "toastr": "^2.1.4",
     "v-money": "^0.8.1",
     "v-tooltip": "^2.0.2",
-    "vue": "^2.5.17",
+    "vue": "^2.7.14",
     "vue-avatar-cropper": "^1.0.5",
     "vue-i18n": "^8.14.0",
     "vue-multiselect": "^2.1.3",
