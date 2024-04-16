@@ -33,7 +33,7 @@
     "bootstrap": "^4.1.0",
     "chart.js": "^2.7.3",
     "guid": "0.0.12",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.17",
     "moment": "^2.18.1",
     "sweet-modal-vue": "^2.0.0",
     "sweetalert": "^2.1.2",
